@@ -1,1 +1,5 @@
 Showing my first exploratory data analysis project through cleaning and analysing the 'world layoff' dataset. 
+
+It is a real-life data set pulled from unknown source, as I was following a tutorial of this project. 
+
+I chose to log this project in my repository as the topic of 'layoff' is very much relevant in today's economy, being one of the key indexes when it comes to indirectly reflect how well an industry or a company is doing. 
